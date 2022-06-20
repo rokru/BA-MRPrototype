@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 64a1ca071c8673544a82ac5470923826
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0000_map_Kd
+    second: {fileID: 2800000, guid: ad67fc7374732d74b882787aae35d78a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0001_map_Kd
+    second: {fileID: 2800000, guid: 5bb7c5fd4f98c524d9a383c50096b995, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0002_map_Kd
+    second: {fileID: 2800000, guid: 1b6c9c30c69b8ec449905b2caff747cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0003_map_Kd
+    second: {fileID: 2800000, guid: 268767bda5cef4d42a4fbd5111c83e95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0004_map_Kd
+    second: {fileID: 2800000, guid: f4da277a7abcf064494446365ba4143e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0005_map_Kd
+    second: {fileID: 2800000, guid: 31a6113ad13a5a94791055e29a6b5f88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0006_map_Kd
+    second: {fileID: 2800000, guid: d774f4a8790a4ba43afa683e8fb39780, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0007_map_Kd
+    second: {fileID: 2800000, guid: c6091a88a424ed54b9f2c8e4b9391188, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0008_map_Kd
+    second: {fileID: 2800000, guid: f1d9b361651b34740b318d1711556742, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0009_map_Kd
+    second: {fileID: 2800000, guid: 866d881e636b1384b992307a1d9ed17f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0010_map_Kd
+    second: {fileID: 2800000, guid: 90b23944b6fa09449927e2d2df4781df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0011_map_Kd
+    second: {fileID: 2800000, guid: 72203e9d843d3b24e9937545bd0b669a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0012_map_Kd
+    second: {fileID: 2800000, guid: f6e59c7de35a085478d0a5e78b3bfb78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0013_map_Kd
+    second: {fileID: 2800000, guid: 7c685f8da7090dd449719e795d73fd47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0014_map_Kd
+    second: {fileID: 2800000, guid: f41b36e8fb137474494c8b48f763db83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0015_map_Kd
+    second: {fileID: 2800000, guid: d4823c2f6a7d3c84797d8f7ba745a9d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0016_map_Kd
+    second: {fileID: 2800000, guid: e6c8d231bdb1bca48a74a1b8f6e9ee2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0017_map_Kd
+    second: {fileID: 2800000, guid: 84b7c40a14a85104e824eeca82d522ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0018_map_Kd
+    second: {fileID: 2800000, guid: affc2e5344dcb1d4391849a382e65ee4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0019_map_Kd
+    second: {fileID: 2800000, guid: 7e22de6a0e9cdef4e8a11a8ca59d1c92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0020_map_Kd
+    second: {fileID: 2800000, guid: f6dfea0c148c7da4fbfea1b306fe8fa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0021_map_Kd
+    second: {fileID: 2800000, guid: e58672277ed29d14eaef4aa4c6de3031, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0022_map_Kd
+    second: {fileID: 2800000, guid: ee6f49544aff6084196d897dcda9ba10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0023_map_Kd
+    second: {fileID: 2800000, guid: 623317ada386ec448993568770a9f782, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0024_map_Kd
+    second: {fileID: 2800000, guid: 118ffcff47ce0a0439c834204dd810ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0025_map_Kd
+    second: {fileID: 2800000, guid: b482b6a532724fe43804da1be8e06bce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0026_map_Kd
+    second: {fileID: 2800000, guid: 140dabe9a9b7b2b42b8d837b919307f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0027_map_Kd
+    second: {fileID: 2800000, guid: e9dd5332ce9ed56458b874db6b72d805, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0028_map_Kd
+    second: {fileID: 2800000, guid: 1bd07e00c28fe3740a2cff5dce73b98b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0029_map_Kd
+    second: {fileID: 2800000, guid: b0db1dc2eefee7d4286c82009e9fbbe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0030_map_Kd
+    second: {fileID: 2800000, guid: 57da26c8922468947a0b38aa206e2f81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0031_map_Kd
+    second: {fileID: 2800000, guid: 9f433c7fcdb5d6f49b32224e6362160a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0032_map_Kd
+    second: {fileID: 2800000, guid: f52163b3fbe8c114ea0cc2b149b8bbab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0033_map_Kd
+    second: {fileID: 2800000, guid: f70e4054a61055b48abf51d496031273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0034_map_Kd
+    second: {fileID: 2800000, guid: e5a1fd4e6cb004f48a1401e4e455f3fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0035_map_Kd
+    second: {fileID: 2800000, guid: ba8cb041298a20346a92e0d3f9eeb9a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0036_map_Kd
+    second: {fileID: 2800000, guid: a58573aee919d2249ae7b759efc25858, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0037_map_Kd
+    second: {fileID: 2800000, guid: 0897eb7e073883647820afa1f3747a39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0038_map_Kd
+    second: {fileID: 2800000, guid: defff6b8ad7774a46a0eea556780d2f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0039_map_Kd
+    second: {fileID: 2800000, guid: 58f1443ff9d98b249a55b2e0877656b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0040_map_Kd
+    second: {fileID: 2800000, guid: 38fe5533ef19abf42bfdc79708bc8fb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0041_map_Kd
+    second: {fileID: 2800000, guid: 146b26296758fa04da3cfa5c0722befe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0042_map_Kd
+    second: {fileID: 2800000, guid: edf3ad119c3d1bd41a03052a06b14009, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0043_map_Kd
+    second: {fileID: 2800000, guid: e1f68239f71f51d4aad49225294ffa2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_material0044_map_Kd
+    second: {fileID: 2800000, guid: 91b19bd724320db4796468efc9421d50, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
