@@ -39,6 +39,7 @@ public class Mirror : MonoBehaviour
         if(handInRangeCount >= 2 && leftHandinPosition && rightHandinPosition)
         {
             everythingInPosition = true;
+            Debug.Log("YES");
         }
 
         //Change FOV of Camera depending on distance between hands

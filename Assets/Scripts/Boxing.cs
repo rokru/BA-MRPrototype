@@ -18,6 +18,8 @@ public class Boxing : MonoBehaviour
 
     private float countdown = 0;
 
+    private GameObject instantiatedBoxingTarget;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -48,10 +50,16 @@ public class Boxing : MonoBehaviour
                 spawnPosition = new Vector3(Random.Range(0.3f,0.8f), Random.Range(0.3f, 0.8f), 0);
             }
 
-            Instantiate(boxingTarget, pivotPointBoxingArea.transform.position + spawnPosition,  spawnRotation);
+            instantiatedBoxingTarget = Instantiate(boxingTarget, pivotPointBoxingArea.transform.position + spawnPosition,  spawnRotation);
             targetActive = true;
         }
         countdown -= 1 * Time.deltaTime;
+
+
+        if(!boxingActive && targetActive)
+        {
+            Destroy(instantiatedBoxingTarget);
+        }
 
     }
 

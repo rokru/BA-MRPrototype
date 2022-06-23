@@ -49,7 +49,7 @@ public class Heizung : MonoBehaviour
         float currentRotationY = this.transform.eulerAngles.y;
         float currentRotationDifference = currentRotationY - originalRotationY;
 
-        if(currentRotationDifference > 90)
+        if(currentRotationDifference > 180)
         {
             if (particleSystemRed.isPlaying)
             {
