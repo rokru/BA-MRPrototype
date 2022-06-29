@@ -40,7 +40,7 @@ public class Waterbottle : MonoBehaviour
         if (bookShelfShown)
         {
             Vector3 offsetPositionBookShelf = this.transform.localPosition;
-            offsetPositionBookShelf.z -= 0.2f;
+            offsetPositionBookShelf.z -= 0.3f;
             bookShelf.transform.localPosition = offsetPositionBookShelf;
         }
     }
