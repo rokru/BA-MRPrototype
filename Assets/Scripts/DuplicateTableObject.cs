@@ -79,12 +79,7 @@ public class DuplicateTableObject : MonoBehaviour
     {
         if (copyGameObject)
         {
-            Transform oldtransform = copyGameObject.transform;
-            //oldtransform.position = copyGameObject.transform.position;
-            Destroy(copyGameObject);
-            
-            copyGameObject = Instantiate(this.gameObject, oldtransform);
-            copyGameObject.transform.parent = copyEmptyGameObject.transform;
+            copyGameObject.GetComponent<Renderer>().material = this.GetComponent<Renderer>().material;
         }
     }
 
